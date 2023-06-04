@@ -1,0 +1,21 @@
+# Figure
+figure.facecolor: 1b2331
+figure.edgecolor: blue
+figure.figsize: 12, 8
+figure.frameon: False
+
+# Grid
+grid.color: 171d29
+
+# Axes
+axes.labelcolor: white
+axes.edgecolor: 00000000
+axes.facecolor: 00000000
+axes.prop_cycle: cycler('color', ['1f77b466', 'ff7f0e66', '2ca02c66', 'd6272866', '9467bd66', '8c564b66', 'e377c266', '7f7f7f66', 'bcbd2266', '17becf66'])
+
+# Ticks
+xtick.alignment: right
+xtick.labelcolor: white
+xtick.color: 00000000
+ytick.labelcolor: white
+ytick.color: 00000000
