@@ -19,3 +19,6 @@ xtick.labelcolor: white
 xtick.color: 00000000
 ytick.labelcolor: white
 ytick.color: 00000000
+
+# Text
+text.color: white
