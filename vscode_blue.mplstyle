@@ -22,3 +22,10 @@ ytick.color: 00000000
 
 # Text
 text.color: white
+
+# Legend
+legend.facecolor: 1b2331
+legend.edgecolor: white
+legend.framealpha: 0.9
+legend.labelcolor: white
+legend.shadow: True
